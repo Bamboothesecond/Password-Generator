@@ -1,6 +1,8 @@
 # Password-Generator
 *By bamboothesecond
 
+# Description
+
 *This Python program generates a random password of a specified length. It uses the random and string modules to generate a string of lowercase and uppercase letters, *digits, and punctuation characters. The generate_password function takes a single argument length which specifies the desired length of the password.
 
 *The function first creates four separate strings lowercase, uppercase, numbers, and symbols, each containing characters of the respective category. It then concatenates *these strings into a single string all_characters.
